@@ -1,7 +1,8 @@
-import React from "react";
 import { Outlet } from "react-router-dom";
 import { NavLink, Link } from "react-router-dom";
 import sprite from "../images/sprite.svg";
+
+import Footer from "../components/Footer/Footer";
 
 const SharedLayout = () => {
   return (
@@ -31,7 +32,12 @@ const SharedLayout = () => {
           <NavLink to={"/story"}>Our Story</NavLink>
         </nav>
       </header>
-      <Outlet />
+      <main>
+        <Outlet />
+      </main>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 };

@@ -9,6 +9,7 @@ module.exports = {
         light_colors_dark_gray: "#707070",
         light_colors_black_light: "#000",
         light_colors_accent_light: "#a18a68",
+        light_colors_white_light: "#fff",
       },
     },
   },

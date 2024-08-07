@@ -1,29 +1,35 @@
 [{
+    "id": "ads1",
     "product" : "Kaede Hair Pin",
     "price" : "$ 30,00",
     "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/a7dvd0s3qx9pkyb5n3hz.jpg"
 },
 {
+    "id": "ads2",
     "product" : "Hair Pin Set of 3",
     "price" : "$ 20,00",
     "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/cvc9lepyspcpeh4tlant.jpg"
 },
 {
+    "id": "ads3",
     "product" : "Lira Earrings",
     "price" : "$ 20,00",
     "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/zdfypfceyxa1ya7dzqjc.jpg"
 },
 {
+    "id": "ads4",
     "product" : "Ollie Earrings",
     "price" : "$ 30,00",
     "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/xwrmwxwsp3flu6ecgymj.jpg"
 },
-    {
+{
+    "id": "ads5",
     "product" : "Yuki Hair Pin",
     "price" : "$ 29,00",
     "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/vwrittumosxn0hrylz1q.jpg"
 },
 {
+    "id": "ads6",
     "product" : "Plaine Necklace",
     "price" : "$ 30,00",
     "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/slkikhi0txefdxwdj7hl.jpg"

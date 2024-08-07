@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const CatalogList = () => {
   console.log(DATA);
   return (
-    <ul className="flex flex-wrap gap-4">
+    <ul className="mb-[72px] flex flex-wrap gap-4">
       {DATA.map((prod) => {
         return (
           <li>
