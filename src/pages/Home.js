@@ -24,7 +24,7 @@ const Home = () => {
             $ 68,00
           </p>
           <Link
-            to="/product"
+            to="/shop/adstest"
             className="px-[9px] py-[6px] border border-white rounded font-normal text-xs leading-relaxed text-light_colors_white_light"
           >
             View Product

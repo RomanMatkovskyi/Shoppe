@@ -2,35 +2,48 @@
     "id": "ads1",
     "product" : "Kaede Hair Pin",
     "price" : "$ 30,00",
-    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/a7dvd0s3qx9pkyb5n3hz.jpg"
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/a7dvd0s3qx9pkyb5n3hz.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
 },
 {
     "id": "ads2",
     "product" : "Hair Pin Set of 3",
     "price" : "$ 20,00",
-    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/cvc9lepyspcpeh4tlant.jpg"
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/cvc9lepyspcpeh4tlant.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
 },
 {
     "id": "ads3",
     "product" : "Lira Earrings",
     "price" : "$ 20,00",
-    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/zdfypfceyxa1ya7dzqjc.jpg"
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/zdfypfceyxa1ya7dzqjc.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
 },
 {
     "id": "ads4",
     "product" : "Ollie Earrings",
     "price" : "$ 30,00",
-    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/xwrmwxwsp3flu6ecgymj.jpg"
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/xwrmwxwsp3flu6ecgymj.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
 },
 {
     "id": "ads5",
     "product" : "Yuki Hair Pin",
     "price" : "$ 29,00",
-    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/vwrittumosxn0hrylz1q.jpg"
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/vwrittumosxn0hrylz1q.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
 },
 {
     "id": "ads6",
     "product" : "Plaine Necklace",
     "price" : "$ 30,00",
-    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/slkikhi0txefdxwdj7hl.jpg"
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1722368463/slkikhi0txefdxwdj7hl.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
+},
+{
+    "id": "adstest",
+    "product" : "Gold big hoops",
+    "price" : "$ 68,00",
+    "productImg" : "https://res.cloudinary.com/dpxuemdl8/image/upload/v1723199290/lcwvipldj0nvjed5h8tr.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis amet tempore sint aperiam, debitis qui quaerat odio illum nisi accusantium possimus, expedita magnam, omnis in excepturi nulla voluptas facilis asperiores!"
 }]

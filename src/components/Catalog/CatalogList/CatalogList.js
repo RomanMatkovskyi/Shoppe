@@ -3,13 +3,12 @@ import DATA from "./defaultData.json";
 import { Link } from "react-router-dom";
 
 const CatalogList = () => {
-  console.log(DATA);
   return (
     <ul className="mb-[72px] flex flex-wrap gap-4">
       {DATA.map((prod) => {
         return (
-          <li>
-            <Link>
+          <li key={prod.id}>
+            <Link to={`${prod.id}`}>
               <img
                 src={prod.productImg}
                 alt={prod.product}

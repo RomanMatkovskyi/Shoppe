@@ -14,8 +14,8 @@ function App() {
       <Routes>
         <Route path="/" element={<SharedLayout />}>
           <Route index element={<Home />} />
-          <Route path="product" element={<Product />} />
           <Route path="shop" element={<Shop />} />
+          <Route path="shop/:id" element={<Product />} />
           <Route path="contact" element={<Contact />} />
           <Route path="account" element={<Account />} />
           <Route path={"*"} element={<h1>NOT FOUND 404</h1>}></Route>
