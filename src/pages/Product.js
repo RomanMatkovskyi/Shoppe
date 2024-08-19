@@ -3,7 +3,8 @@ import { useParams } from "react-router-dom";
 import TESTDATA from "../components/Catalog/CatalogList/defaultData.json";
 import sprite from "../images/sprite.svg";
 
-import Description from "../components/Catalog/Description/Description";
+import Description from "../components/Description/Description";
+import ProductInfo from "../components/ProductInfo/ProductInfo";
 
 const Product = () => {
   const productID = useParams().id;
@@ -37,6 +38,9 @@ const Product = () => {
         ADD TO CART
       </button>
       <Description description={productData.description} />
+      <div className="py-4">
+        <ProductInfo description={productData.description} />
+      </div>
     </div>
   );
 };

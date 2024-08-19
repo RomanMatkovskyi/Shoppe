@@ -8,7 +8,7 @@ const CatalogList = () => {
       {DATA.map((prod) => {
         return (
           <li key={prod.id}>
-            <Link to={`${prod.id}`}>
+            <Link to={`shop/${prod.id}`}>
               <img
                 src={prod.productImg}
                 alt={prod.product}
