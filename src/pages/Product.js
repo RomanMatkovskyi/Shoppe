@@ -9,6 +9,20 @@ import ProductInfo from "../components/ProductInfo/ProductInfo";
 const Product = () => {
   const productID = useParams().id;
   const productData = TESTDATA.find((product) => product.id === productID);
+
+  // const addToCart = () => {
+  //   const cartData = localStorage.getItem("cart");
+  //   const cart = JSON.stringify(cartData);
+  //   console.log("existingCart", cart);
+
+  //   if (cart !== null && !cart.includes(productID)) {
+  //     const updatedCart = [cart, productID];
+  //     save("cart", updatedCart);
+  //   } else {
+  //     save("cart", productID);
+  //   }
+  // };
+
   return (
     <div>
       <img
@@ -34,6 +48,7 @@ const Product = () => {
       <button
         type="button"
         className="w-full py-[6px] mb-4 border border-light_colors_black_light rounded font-normal text-xs leading-relaxed"
+        // onClick={addToCart}
       >
         ADD TO CART
       </button>

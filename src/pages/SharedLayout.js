@@ -15,7 +15,7 @@ const SharedLayout = () => {
             </svg>
           </Link>
           <div className="flex gap-4">
-            <Link to={"/shop"}>
+            <Link to={"/shoppingcart"}>
               <svg width={18} height={18}>
                 <use xlinkHref={`${sprite}#icon-shopping_cart`}></use>
               </svg>
